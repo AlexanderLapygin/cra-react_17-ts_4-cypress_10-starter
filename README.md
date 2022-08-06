@@ -4,19 +4,20 @@
     </a>
 </div>
 
-# CRA-on-TypeScript starter with integration testing by Cypress
+# CRA-on-TypeScript starter with ui testing by Cypress
 
 ## Feature tags
 
 - create-react-app
 - cypress
 - integration
-- typescript
 - react
 - rest
 - starter
 - template
 - testing
+- typescript
+- ui
 
 ---
 
