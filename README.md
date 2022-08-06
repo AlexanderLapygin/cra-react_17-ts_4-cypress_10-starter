@@ -13,7 +13,7 @@
 - integration
 - typescript
 - react
-- rest-api
+- rest
 - starter
 - template
 - testing
