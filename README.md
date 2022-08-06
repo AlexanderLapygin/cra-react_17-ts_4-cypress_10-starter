@@ -4,31 +4,19 @@
     </a>
 </div>
 
-# CRA starter with testing by React Testing Library, Cypress and MSW
+# CRA-on-TypeScript starter with integration testing by Cypress
 
 ## Feature tags
 
 - create-react-app
 - cypress
-- e2e
-- javascript
-- mock-server-worker
+- integration
+- typescript
 - react
-- react-testing-library
-- rest
+- rest-api
 - starter
 - template
 - testing
-
----
-
-## Direct ancestors
-
-[***- cypress, e2e***: cra_rtl_msw](https://github.com/AlexanderLapygin/cra_rtl_msw)
-
-## Direct descendants
-
-[***+ auth, ci, db, docker-compose, offline, search***: cra_cra_auth_search_offline_rtl_cypress_msw_starter](https://github.com/AlexanderLapygin/cra_auth_search_offline_rtl_cypress_msw_starter)
 
 ---
 
@@ -52,35 +40,24 @@ Being in the repository root directory, run:
 yarn start
 ```
 
-## Running test (in watch mode)
+## Running test
 
 Being in the repository root directory, run:
 
-For unit-testing:
+### In ui mode
 
 ```sh
-yarn test:unit
+yarn cypress:open
 ```
-
-For e2e-testing:
-
-```sh
-yarn test:e2e
-```
-
-For unit- and e2e-testing:
+### In command line mode
 
 ```sh
-yarn test
+yarn cypress:run
 ```
 
 ## Authors
 
 [Alexander Lapygin](https://github.com/AlexanderLapygin)
-
-## Inspired by
-
-[rest-react - example from MSW](https://github.com/mswjs/examples/tree/master/examples/rest-react)
 
 ### License
 
