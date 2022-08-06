@@ -59,6 +59,10 @@ yarn cypress:run
 
 [Alexander Lapygin](https://github.com/AlexanderLapygin)
 
+## Inspiration
+
+[Basarat Codes vlog: Cypress for Create React App (with code coverage and TypeScript)](https://www.youtube.com/watch?v=Dsgegf15ccA)
+
 ### License
 
 Licensed under the [MIT license](./LICENSE).
