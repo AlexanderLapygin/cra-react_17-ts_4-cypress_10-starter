@@ -44,12 +44,12 @@ yarn start
 
 Being in the repository root directory, run:
 
-### In ui mode
+### In interactive mode
 
 ```sh
 yarn cypress:open
 ```
-### In command line mode
+### Headlessly
 
 ```sh
 yarn cypress:run
