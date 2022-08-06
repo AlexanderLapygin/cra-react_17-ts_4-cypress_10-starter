@@ -14,7 +14,6 @@
 - typescript
 - react
 - rest
-- api
 - starter
 - template
 - testing
