@@ -4,7 +4,7 @@
     </a>
 </div>
 
-# CRA-on-TypeScript starter with ui testing by Cypress
+# CRA-on-TypeScript starter with UI testing on Cypress only
 
 ## Feature tags
 
