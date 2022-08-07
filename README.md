@@ -21,9 +21,9 @@
 
 ## Key versions
 
-- React: ^17.0.2
-- Cypress: ^10.4.0
-- TypeScript: ^4.7.4
+- React: 17
+- Cypress: 10
+- TypeScript: 4
 
 ---
 
