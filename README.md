@@ -11,9 +11,7 @@
 - create-react-app
 - cypress
 - cypress-testing-library
-- integration
 - react
-- rest
 - starter
 - template
 - testing
