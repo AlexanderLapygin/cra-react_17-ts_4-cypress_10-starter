@@ -52,7 +52,7 @@ yarn start
 
 Being in the repository root directory, run:
 
-### In interactive mode
+### Interactively
 
 ```sh
 yarn cypress:open
