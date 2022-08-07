@@ -23,6 +23,7 @@
 
 - React: ^17.0.2
 - Cypress: ^10.4.0
+- TypeScript: ^4.7.4
 
 ---
 
