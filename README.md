@@ -6,12 +6,6 @@
 
 # CRA-on-TypeScript starter with ui testing by Cypress
 
-
-## Key versions
-
-- React: 17
-- Cypress: 10
-
 ## Feature tags
 
 - create-react-app
@@ -24,6 +18,11 @@
 - testing
 - typescript
 - ui
+
+## Key versions
+
+- React: ^17.0.2
+- Cypress: ^10.4.0
 
 ---
 
