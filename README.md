@@ -4,12 +4,13 @@
     </a>
 </div>
 
-# CRA on TypeScript starter with UI testing on Cypress only
+# CRA on TypeScript starter with UI testing on Cypress CRA on TypeScript starter with UI testing on Cypress with Cypress Testing Library
 
 ## Feature tags
 
 - create-react-app
 - cypress
+- cypress-testing-library
 - integration
 - react
 - rest
